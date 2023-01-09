@@ -1,0 +1,1 @@
+<img src="/include/logo.png"  srcset="/include/logo.png" /> <span>ИПС в станице <br> Кагальницкая</span>
